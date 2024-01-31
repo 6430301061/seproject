@@ -8,8 +8,6 @@ import { gapi } from 'gapi-script'
 function App() {
   const [count, setCount] = useState(0)
 
-  const clien = ""
-
   const clientId = "989605622776-ue6e395jnkt84309ub3a5b83pg7svq28.apps.googleusercontent.com"
   
   useEffect(() => {
